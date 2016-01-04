@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2016-01-04 22:41:22
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.0
+WORDPRESS:	4.5-alpha-36168
+PHP INFO:	5.6.10 | SAPI: apache2handler
+SERVER:		Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zg DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+MEMORY STACK: 25.5MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20160104_568af4be24cf18226160104223958_database.sql 
+SQL FILE SIZE: 528.75KB (541441) 
+SQL FILE TIME: 2016-01-04 22:41:25 
+SQL RUNTIME: 3.06 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Users/dennisedson/Dropbox (Dennis Edson)/work/development/caneandlinen-local-dev 
+ARCHIVE FILE: 20160104_568af4be24cf18226160104223958_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	159.33MB 
+STATS:	Dirs 5,101 | Files 22,732 
+SQL ADDED: 20160104_568af4be24cf18226160104223958_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 27833
+    [filename] => /Users/dennisedson/Dropbox (Dennis Edson)/work/development/caneandlinen-local-dev/wp-snapshots/tmp/20160104_568af4be24cf18226160104223958_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 80.02MB 
+ARCHIVE RUNTIME: 67.02 sec. 
+MEMORY STACK: 44MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/Users/dennisedson/Dropbox (Dennis Edson)/work/development/caneandlinen-local-dev/wp-snapshots/tmp/20160104_568af4be24cf18226160104223958_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 528.75KB 
+Installer File: 318.88KB 
+Archive File: 80.02MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 72.89 sec.
+PEAK PHP MEMORY USED: 57.5MB
+DONE PROCESSING => 20160104 2016-01-04 22:42:35
+ 

@@ -1,0 +1,325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"last_filter": "scss",
+		"selected_items":
+		[
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '462d6673ebd5b9ca297474c166b2e10d' + 'fd945a23b1a0642535aa906951315f52'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dennisedson/Dropbox (Dennis Edson)/work/development/caneandlinen-local-dev"
+	],
+	"file_history":
+	[
+		"/Users/dennisedson/Dropbox (Dennis Edson)/work/development/caneandlinen-foundation6/wp-content/themes/FoundationPress/assets/stylesheets/foundation.css",
+		"/Users/dennisedson/Desktop/spotify-export-master/README.md",
+		"/Users/dennisedson/Dropbox (Komar)/work/development/zurb/sonnet-video/src/assets/scss/components/_test.scss",
+		"/Users/dennisedson/Dropbox (Komar)/work/development/caneandlinen-foundation6/wp-config.php",
+		"/Applications/MAMP/bin/php/php5.6.10/conf/php.ini",
+		"/Applications/MAMP/conf/php5.6.10/php.ini",
+		"/Users/dennisedson/Dropbox (Komar)/work/cl",
+		"/Users/dennisedson/Dropbox (Komar)/Komar Direct Team Folder/templates/11_19_15chfooter/footer.html",
+		"/Users/dennisedson/Dropbox (Komar)/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/page.php",
+		"/Users/dennisedson/Dropbox (Komar)/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/content.php",
+		"/Users/dennisedson/Dropbox (Komar)/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/assets/scss/site/_styles.scss",
+		"/Users/dennisedson/Dropbox (Komar)/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/single.php",
+		"/Users/dennisedson/Dropbox (Komar)/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/index.php",
+		"/Users/dennisedson/Dropbox (Komar)/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/category.php",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/scss/site/_styles.scss",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/index.html",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/submit-contact.php",
+		"/Users/dennisedson/Desktop/resize-header-on-scroll/index.html",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/parts/top-bar.php",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/assets/scss/site/_topbar.scss",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/assets/scss/site/_styles.scss",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/sidebar.php",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/category.php",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/single.php",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/index.php",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/page.php",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/sidebar-left.php",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/footer.php",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/assets/scss/site/_typography.scss",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/library/widget-areas.php",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/assets/scss/foundation.scss",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/content.php",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/library/enqueue-scripts.php",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/assets/scss/config/_settings.scss",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/library/custom-header.php",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/assets/scss/site/_navigation.scss",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/library/navigation.php",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/foundationpress/assets/css/foundation.css",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/FoundationPress-master/assets/css/foundation.css",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/FoundationPress-master/assets/scss/foundation.scss",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/FoundationPress-master/assets/components/foundation/scss/normalize.scss",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/FoundationPress-master/assets/components/foundation/scss/foundation.scss",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/FoundationPress-master/style.css",
+		"/Users/dennisedson/Dropbox/work/Development/vhosts/www.site.dev/wp-content/themes/FoundationPress-master/assets/components/foundation/scss/foundation/components/_accordion.scss",
+		"/Users/dennisedson/Dropbox/work/Me.me/scss/styles.scss",
+		"/Users/dennisedson/Dropbox/work/Me.me/js/app.js",
+		"/Applications/MAMP/conf/apache/httpd.conf"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"350x350",
+			"black",
+			"#FFFFFF",
+			"always_populate_raw_post_data",
+			"the_content",
+			"div class=\"layoutArea\"",
+			"div class= \"layoutArea\"",
+			"layoutArea",
+			"333333",
+			"FFFFFF",
+			"@media",
+			"media",
+			"0 0.9375rem",
+			"15%",
+			"media",
+			"foundation.css",
+			"awesome",
+			"50%",
+			"95",
+			"javascript"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "caneandlinen.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
